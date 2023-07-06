@@ -1,0 +1,7 @@
+/out
+/googletest
+/build
+/.vs
+/.vscode
+
+*.exe
