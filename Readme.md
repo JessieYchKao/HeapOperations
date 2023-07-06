@@ -64,7 +64,7 @@ This program implements a heap data structure and allows you to perform various 
     ```
     $ mkdir build
     $ cd build
-    $ git
+    $ cmake ..
     ```
 4. Change CMakeCache.txt settings
     ```
